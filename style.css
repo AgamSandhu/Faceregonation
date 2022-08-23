@@ -1,0 +1,19 @@
+body{
+    color:black;
+    background:rgb(189, 176, 235);  
+}
+
+.heading{
+    width:80%;
+    font-size:22px;
+}
+
+#camara{
+border:2px dashed black; 
+width:350px;
+height:300px;
+} 
+
+#expresstion_name,#expresstion_accuracy{
+    color:black; 
+}
